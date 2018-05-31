@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<title>NEHSCSA Logo</title>
+     <style type="text/css">
+    .st0 {
+        fill: none;
+        stroke: #52A052;
+        stroke-width: 4;
+        stroke-miterlimit: 10;
+    }
+
+    .st1 {
+        fill: none;
+        stroke: #70BD71;
+        stroke-width: 2;
+        stroke-miterlimit: 10;
+    }
+
+    .st2 {
+        fill: none;
+        stroke: #FFFFFF;
+        stroke-width: 0.5;
+        stroke-miterlimit: 10;
+    }
+
+    .st3 {
+        fill: none;
+        stroke: #3F8C3F;
+        stroke-width: 2.5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+    }
+
+    .st4 {
+        font-family: 'LiSungLight';
+    }
+
+    .st5 {
+        font-size: 71.1648px;
+    }
+
+    .st6 {
+        fill: #FFFFFF;
+        stroke: #70BD71;
+        stroke-miterlimit: 10;
+    }
+
+    .st7 {
+        fill: #FFFFFF;
+        stroke: #52A052;
+        stroke-width: 2.5;
+        stroke-miterlimit: 10;
+    }
+
+    .st8 {
+        font-size: 100.8168px;
+    }
+    </style>
+    <polygon id="Black_Large" points="250,0 374.9,33.5 466.6,124.9 500,250 466.6,374.9 374.9,466.5 250,500 124.9,466.5 33.4,374.9 0,250 33.4,124.9 124.9,33.5"/>
+    <polygon id="Black1" class="st0" points="250,2.9 373.5,36 464,126.4 497.1,250 464,373.5 373.5,464 250,497.1 126.4,464 36,373.5 2.9,250 36,126.4 126.4,36"/>
+    <polygon id="Black" class="st1" points="250,2.9 373.5,36 464,126.4 497.1,250 464,373.5 373.5,464 250,497.1 126.4,464 36,373.5 2.9,250 36,126.4 126.4,36"/>
+    <g id="Wonder1">
+        <g id="Layer1_1_">
+            <polygon class="st0" points="457.2,369.6 250,489.2 42.8,369.6 42.8,130.4 250,10.8 457.2,130.4"/>
+            <polygon class="st0" points="371.1,457.2 131.9,457.2 12.3,250 131.9,42.8 371.1,42.8 490.8,250"/>
+            <polygon class="st0" points="250,8.6 370.7,41 459,129.3 491.4,250 459,370.7 370.7,459 250,491.4 129.3,459 41,370.7 8.6,250 41,129.3 129.3,41"/>
+        </g>
+    </g>
+    <g id="Wonder">
+        <g id="Layer1">
+            <polygon class="st1" points="457.2,369.6 250,489.2 42.8,369.6 42.8,130.4 250,10.8 457.2,130.4"/>
+            <polygon class="st1" points="371.1,457.2 131.9,457.2 12.3,250 131.9,42.8 371.1,42.8 490.8,250"/>
+            <polygon class="st1" points="250,8.6 370.7,41 459,129.3 491.4,250 459,370.7 370.7,459 250,491.4 129.3,459 41,370.7 8.6,250 41,129.3 129.3,41"/>
+        </g>
+    </g>
+    <g id="White_Layer">
+        <polygon class="st2" points="457.2,369.6 250,489.2 42.8,369.6 42.8,130.4 250,10.8 457.2,130.4"/>
+        <polygon class="st2" points="371.1,457.2 131.9,457.2 12.3,250 131.9,42.8 371.1,42.8 490.8,250"/>
+        <polygon class="st2" points="250,8.6 370.7,41 459,129.3 491.4,250 459,370.7 370.7,459 250,491.4 129.3,459 41,370.7 8.6,250 41,129.3 129.3,41"/>
+    </g>
+    <g id="NEHS2">
+        <text transform="matrix(1 0 0 1 93.5444 219.8154)" class="st3 st4 st5">N</text>
+        <text transform="matrix(1 0 0 1 182.5005 219.8154)" class="st3 st4 st5">E</text>
+        <text transform="matrix(1 0 0 1 271.4565 219.8154)" class="st3 st4 st5">H</text>
+        <text transform="matrix(1 0 0 1 369.3081 219.8154)" class="st3 st4 st5">S</text>
+    </g>
+    <g id="NEHS1">
+        <text transform="matrix(1 0 0 1 93.5444 219.8154)" class="st6 st4 st5">N</text>
+        <text transform="matrix(1 0 0 1 182.5005 219.8154)" class="st6 st4 st5">E</text>
+        <text transform="matrix(1 0 0 1 271.4565 219.8154)" class="st6 st4 st5">H</text>
+        <text transform="matrix(1 0 0 1 369.3081 219.8154)" class="st6 st4 st5">S</text>
+    </g>
+    <g id="CSA2">
+        <text transform="matrix(1 0 0 1 93.2612 330.5166)" class="st7 st4 st8">C</text>
+        <text transform="matrix(1 0 0 1 222.6294 330.5166)" class="st7 st4 st8">S</text>
+        <text transform="matrix(1 0 0 1 338.3853 330.5166)" class="st7 st4 st8">A</text>
+    </g>
+    <g id="CSA1">
+        <text transform="matrix(1 0 0 1 93.2612 330.5166)" class="st6 st4 st8">C</text>
+        <text transform="matrix(1 0 0 1 222.6294 330.5166)" class="st6 st4 st8">S</text>
+        <text transform="matrix(1 0 0 1 338.3853 330.5166)" class="st6 st4 st8">A</text>
+    </g>
+    <polygon id="White_Big" class="st2" points="250,2.9 373.5,36 464,126.4 497.1,250 464,373.5 373.5,464 250,497.1 126.4,464 36,373.5 2.9,250 36,126.4 126.4,36"/>
+</svg>

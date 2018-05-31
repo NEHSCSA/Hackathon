@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/* Mobile view */
+
+@media screen and (min-width: 300px) and (max-width: 700px) {
+
+    .message-input {
+        font-size: large;
+    }
+
+    .mail {
+        width: 100%;
+    }
+
+    .title {
+        width: 50%;
+    }
+
+    .table-about>table:nth-child(1)>tbody>tr>td>h1>a {
+        font-size: 0.85em;
+        white-space: nowrap;
+    }
+}
